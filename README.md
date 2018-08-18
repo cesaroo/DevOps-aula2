@@ -1,5 +1,6 @@
 # DevOps-aula2
-# Debora secco
+# suzana Vieira
 # Luana Piovanni
+# Debora secco
 # Paolla  oliveira
-
+# Megan Fox
